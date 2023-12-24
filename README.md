@@ -3,7 +3,7 @@ Repository to showcase utility of Computer Vision AI models as additional input 
 The goal is to make the models function with low quality inbuilt laptop cameras for higher adaptability and lower costs.
 
 The repository consists of three sub-projects:  
-- Gamified Data Acquisition (WIP)
+- [Gamified Data Acquisition (WIP)](https://github.com/sanjay-chivukula/gamified-data-acquisition/tree/main)
 - Gaze Position Trackking (Not Started)
 - Game of Gaze (Not Started)
 
