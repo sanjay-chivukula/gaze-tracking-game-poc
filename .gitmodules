@@ -1,0 +1,3 @@
+[submodule "gamified-data-acquisition"]
+	path = gamified-data-acquisition
+	url = git@github.com:sanjay-chivukula/gamified-data-acquisition.git
